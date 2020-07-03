@@ -55,6 +55,7 @@
                 <artifactId>dubbo-registry-nacos</artifactId>
                 <version>${dubbo-registry-nacos.version}</version>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
 </project>
